@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Currency Coverter</string>
+    <string name="dollar_amount">Dollar Amount</string>
+    <string name="convert">Convert</string>
+    <string name="graphic_of_dollar_to_euro">Graphic of Dollar To Euro</string>
+</resources>
