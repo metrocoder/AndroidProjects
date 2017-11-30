@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FadingAnimation</string>
+    <string name="sanpile_images">Sanpile Images</string>
+    <string name="second_sandpile">Second Sandpile</string>
+</resources>
