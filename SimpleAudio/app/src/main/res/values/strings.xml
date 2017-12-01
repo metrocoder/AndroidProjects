@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleAudio</string>
+    <string name="album_cover">Album Cover</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+</resources>
