@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="a_piece_to_drop_in_the_grid">A piece to drop in the grid</string>
+    <string name="play_again">Play Again</string>
+</resources>
