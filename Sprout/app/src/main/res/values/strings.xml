@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sprout</string>
+    <string name="_30">30</string>
+    <string name="faces_that_corresponds_to_correct_or_wrong_answer">Faces that corresponds to Correct or Wrong Answer</string>
+</resources>
